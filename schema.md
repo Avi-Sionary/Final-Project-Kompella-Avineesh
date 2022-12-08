@@ -1,3 +1,4 @@
+```
 create schema if not exists game_store;
 use game_store;
 
@@ -60,3 +61,4 @@ create table if not exists invoice (
     processing_fee decimal (5,2) not null,
     total decimal(5,2) not null
 );
+```
