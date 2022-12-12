@@ -3,6 +3,13 @@
 ## Deployment link
 http://capstone-env.eba-kdwu332n.us-west-2.elasticbeanstalk.com/
 
+The endpoints are:
+/games
+/console
+/tshirt
+/invoice
+
+
 ## Team Members
 - Avineesh Kompella
 - Mandresy Andriamasinoro
